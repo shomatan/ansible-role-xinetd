@@ -21,7 +21,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - { role: username.xinetd }
+         - { role: shomatan.xinetd }
 
 License
 -------
